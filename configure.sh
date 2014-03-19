@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #configuring the system
-wget https://raw.github.com/arunoda/travis-ci-laika/master/Makefile
+wget https://raw.github.com/avrora/travis-ci-laika/master/Makefile
 
 #install meteor
 curl https://install.meteor.com | /bin/sh

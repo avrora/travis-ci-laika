@@ -1,3 +1,3 @@
 test: 
-	laika $$LAIKA_OPTIONS
+	cd app; laika $$LAIKA_OPTIONS
 .PHONY: test
