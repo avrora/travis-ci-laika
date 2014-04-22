@@ -6,8 +6,8 @@ wget https://raw.github.com/avrora/travis-ci-laika/master/Makefile
 #update npm
 npm update npm -g
 
-# set european mirror
-npm set registry  http://registry.npmjs.eu/
+# set european mirror - disable for now
+# npm set registry  http://registry.npmjs.eu/
 
 #install meteor
 curl https://install.meteor.com | /bin/sh
