@@ -15,5 +15,8 @@ curl https://install.meteor.com | /bin/sh
 #installing meteorite
 npm install -g meteorite
 
+#install should and underscore for tests
+sudo npm install -g should underscore
+
 #installing laika
 npm install -g laika
