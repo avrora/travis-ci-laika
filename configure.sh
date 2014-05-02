@@ -17,6 +17,7 @@ npm install -g meteorite
 
 #install should and underscore for tests
 sudo npm install -g should underscore
+npm link underscore should
 
 #installing laika
 npm install -g laika
