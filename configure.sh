@@ -15,6 +15,9 @@ curl https://install.meteor.com | /bin/sh
 #installing meteorite
 npm install -g meteorite
 
+#installing forever
+npm install -g forever
+
 #install should and underscore for tests
 npm install -g should underscore
 npm link underscore should
