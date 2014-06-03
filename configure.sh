@@ -18,6 +18,9 @@ npm install -g meteorite
 #installing forever
 npm install -g forever
 
+#install utils
+npm install key-del object-sizeof
+
 #install should and underscore for tests
 npm install -g should underscore
 npm link underscore should
